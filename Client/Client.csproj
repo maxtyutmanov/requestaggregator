@@ -9,7 +9,7 @@
   <ItemGroup>
     <PackageReference Include="microsoft.extensions.dependencyinjection" Version="2.2.0" />
     <PackageReference Include="microsoft.extensions.dependencyinjection.abstractions" Version="2.2.0" />
-    <PackageReference Include="newtonsoft.json" Version="12.0.2" />
+    <PackageReference Include="newtonsoft.json" Version="13.0.1" />
   </ItemGroup>
 
 </Project>
